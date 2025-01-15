@@ -66,8 +66,3 @@ Make sure you have the following dependencies installed.
 pip install pymysql
 pip install prettytable
 ```
-
-The checker can also use the provided `test.sql` for checking the updates in the mySql database.
-Link for the Video is provided in the link below
-
-https://iiitaphyd-my.sharepoint.com/:f:/g/personal/arihant_rastogi_research_iiit_ac_in/EsVkOqvsGiNJuvVFWbPwHlMBiThqgi3fH01f5jb9Jw2QLw?e=jkx4up
